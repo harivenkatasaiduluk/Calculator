@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: calculator
-          image: mvamsikrishnareddy/k8-frontend:latest
+          image: mvamsikrishnareddy/calculator-frontend:latest
           ports:
             - containerPort: 80
 ---
