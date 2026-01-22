@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   frontend:
-    image: mvamsikrishnareddy/calculator-frontend:latest
+    image: harivenkatasaiduluk/calculator-frontend:latest
     container_name: react
     ports:
       - "3000:80"

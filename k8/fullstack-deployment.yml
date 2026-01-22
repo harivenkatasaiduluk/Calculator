@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: calculator
-          image: mvamsikrishnareddy/calculator-frontend:latest
+          image: harivenkatasaiduluk/calculator-frontend:latest
           ports:
             - containerPort: 80
 ---
